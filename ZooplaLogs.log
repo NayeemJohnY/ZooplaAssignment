@@ -1,0 +1,23 @@
+2019-04-06 15:03:19,364  INFO [main] WebEventListener:14 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-04-06 15:04:20,143 ERROR [main] WebEventListener:55 - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LOGESH', ip: '192.168.204.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\LOGESH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: b53e26cb00f4d8c74b3e17c79e25a4af
+2019-04-06 15:04:21,111  WARN [main] WebEventListener:47 - <----getAllPropertiesPriceReverseTest  was Skipped---->
+2019-04-06 15:04:52,857  INFO [main] WebEventListener:14 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-04-06 15:05:42,887 ERROR [main] WebEventListener:55 - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LOGESH', ip: '192.168.204.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\LOGESH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: c0f1e6ebd86e40d34d1093ed6e75b9f3
+2019-04-06 15:05:42,912  WARN [main] WebEventListener:47 - <----getAgentdetailsTest  was Skipped---->
+2019-04-06 15:06:16,017  WARN [main] WebEventListener:47 - <----verifyAgentNameTest  was Skipped---->

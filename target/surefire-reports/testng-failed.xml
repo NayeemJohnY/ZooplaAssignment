@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.zoopla.tests.PropertyDtilPageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="getAgentdetailsTest"/>
+          <include name="setupPropertyPage"/>
+        </methods>
+      </class> <!-- com.zoopla.tests.PropertyDtilPageTest -->
+      <class name="com.zoopla.tests.ForSalePageTest">
+        <methods>
+          <include name="setupForSalePage"/>
+          <include name="teardown"/>
+          <include name="getAllPropertiesPriceReverseTest"/>
+        </methods>
+      </class> <!-- com.zoopla.tests.ForSalePageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

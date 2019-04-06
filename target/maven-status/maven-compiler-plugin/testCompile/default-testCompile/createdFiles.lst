@@ -1,0 +1,5 @@
+com\zoopla\tests\AgentPageTest.class
+com\zoopla\tests\HomePageTest.class
+com\zoopla\tests\ForSalePageTest.class
+com\zoopla\testUtils\TestListener.class
+com\zoopla\tests\PropertyDtilPageTest.class
